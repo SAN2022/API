@@ -1,16 +1,4 @@
 {
-  "jobs": [
-    {
-        "id": 1,
-        "name": "AMAZON",
-        "web": "http://www.thetrinityacademy.in/"
-    },
-    {
-        "id": 2,
-        "name": "FLIPKART",
-        "web": "http://www.flipkart.in/"
-    }
-  ],
   "schools": [
     {
         "id": 1,
